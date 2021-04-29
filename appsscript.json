@@ -1,0 +1,15 @@
+{
+  "timeZone": "Europe/Madrid",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Currencies exchange rates",
+    "logoUrl": "https://coinlist.me/wp-content/uploads/2020/09/bitcoin-dollars-exchange-3.png",
+    "company": "Enrique Ismael Mendoza Robaina",
+    "companyUrl": "https://enri.me",
+    "addonUrl": "https://github.com/enrimr/currency-rates-data-studio-connector/tree/master/#readme",
+    "supportUrl": "https://github.com/enirmr/currency-rates-data-studio-connector/issues",
+    "description": "Get currency exchange rates."
+  }
+}
